@@ -4,8 +4,8 @@
         <h1>上 机 实 验 报 告</h1>
     </center>
     <div class="studentInfo" style="margin:20px 20px 10px 0px;">
-    <div style="float: left;text-align:left">学生姓名：莫</br>指导教师：于</div>
-    <div style="float: right;text-align:right">学号：20210609010XX</br>上机时间：2021年12月02日</div>
+    <div style="float: left;text-align:left">学生姓名：张三</br>指导教师：李四</div>
+    <div style="float: right;text-align:right">学号：2021XXXXXXXXX</br>上机时间：2021年12月02日</div>
 </div>
 
 

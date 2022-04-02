@@ -13,4 +13,4 @@ A Markdown templates for UESTC C programming lab report.
 - You can download `Typora` [here](https://www.typora.io/#download)
 
 # Preview
-<img src="https://raw.githubusercontent.com/kotlyne/uetsc_C-programming_lab-report_template/main/report_template.png" style="zoom:50%;">
+<img src="report_template.png" style="zoom:50%;">
